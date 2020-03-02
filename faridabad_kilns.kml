@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="faridabad_kilns" id="faridabad_kilns">
+	<SimpleField name="Prediction" type="string"></SimpleField>
+	<SimpleField name="NAME_1" type="string"></SimpleField>
+</Schema>
+<Folder><name>faridabad_kilns</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">19960919</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.2966125651791,28.2665934291279</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">19960327</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.4039086825454,28.2444394772897</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">19960919</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.4075158288454,28.2528975349767</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">19970109</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.3335025300373,28.2647349363304</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">19970517</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.3859010570549,28.221422171567</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">19970517</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.3936501816893,28.2845999865659</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">19980301</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.3301555156736,28.2651772761742</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">19980301</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.3341878857863,28.2506374706973</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">19980402</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.3715409039327,28.2964020660942</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">19980605</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.3823236772177,28.2916561816689</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">19980301</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.3824859974163,28.2400195779493</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">19980605</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.3885690314238,28.3893786596187</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">19980504</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.3888611013514,28.2747897991489</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">19980301</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.3916980321338,28.2850097186175</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">19980301</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.3934322891325,28.2855594777415</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">19980301</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.3934699953247,28.2777520119967</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">19980402</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.3999106799529,28.282083810939</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">19980418</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.4105750129968,28.2464863366086</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">19990304</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.3312774134954,28.2555436125009</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">19991022</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.3725319611493,28.2959983360909</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">19990702</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.37905089718,28.2915611673595</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">19990131</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.3877161690686,28.2849102868469</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">19990421</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.3903321441575,28.3318488149175</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">19990421</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.4052570228717,28.2514323031461</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">19990304</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.4226445513521,28.2190595024021</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">20000415</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.3082385810022,28.2755629689169</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">20000501</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.3359263707185,28.2514752581457</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">20000219</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.3694840115386,28.2882287624419</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">20000203</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.3816924105523,28.2319121466802</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">20000509</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.3899586882215,28.3803324637229</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">20000219</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.3900928110231,28.3328984571427</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">20000602</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.3916717897183,28.335665303448</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">20001008</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.3958167457368,28.2818264297067</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">20000203</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.3972036175265,28.3112741500882</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">20000314</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.3980176959538,28.2799636169855</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">20000509</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.4170111265973,28.3352742204773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">20010824</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.3939179421381,28.376736423799</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">20011011</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.3972428329564,28.3263603715283</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">20010128</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.4274383261642,28.2237744036204</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">20030307</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.3968964953006,28.2839132682678</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">20041120</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.383404732256,28.236936583133</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">20040325</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.3850369828545,28.2404577836727</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">20041206</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.3977380973336,28.2455321868792</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">20050413</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.2401718292319,28.2976084039585</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">20050904</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.3767847255914,28.2350977528129</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">20051209</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.3892834351542,28.2758783946327</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">20051022</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.3984932566779,28.3103566057308</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">20051209</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.3998431653276,28.2159713865699</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">20051107</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.4101700283095,28.2415629401846</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">20061110</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.4047546766752,28.2496760556902</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">20060126</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.4259532977716,28.3926500419237</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">20060331</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.4506982827385,28.2516172964032</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">20070403</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.4002198953022,28.2516819373764</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">20100724</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.3294726432874,28.2611194353851</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">20101129</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.3804570729459,28.2312473350544</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">20101028</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.3974428085563,28.2442012851247</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">20111012</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.3937551479582,28.2445747964059</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">20111012</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.396407669568,28.2485949524697</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">20110929</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.4413289520806,28.2537840384568</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">20131028</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.3805394744089,28.2284716420848</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">20131007</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.3808157674007,28.2333160772642</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">20131007</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.3816159556396,28.2241808273319</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">20131121</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.3829471561144,28.2234083295472</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">20131020</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.3833643202803,28.2428243753814</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">20131113</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.3939339031838,28.2191602846695</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">20131007</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.3993626733271,28.2429013174561</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">20131113</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.3998747567601,28.2486111565353</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">20131113</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.3999365331325,28.2499569015158</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">20131007</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.4025881092803,28.2417577892426</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">20131007</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.4110319939651,28.2395030725538</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">20141023</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.3836852902686,28.2385244763627</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">20140217</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.3846638584779,28.2390074152845</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">20141015</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.3884915140019,28.2868185983362</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">20140414</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.3902030994949,28.2863705189326</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">20140217</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.4044818309969,28.2535401236249</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">20140422</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.4055209356982,28.2449643206354</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">20140414</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.410451820888,28.233594781329</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">20141116</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.4201699584199,28.208576859661</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">20141108</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.4242864970124,28.2150109186377</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#faridabad_kilns">
+		<SimpleData name="Prediction">20140422</SimpleData>
+		<SimpleData name="NAME_1">Haryana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.4401480980711,28.2531875507983</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
